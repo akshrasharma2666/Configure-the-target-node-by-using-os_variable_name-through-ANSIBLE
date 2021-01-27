@@ -1,0 +1,1 @@
+# Configure-the-target-node-by-using-os_variable_name-through-ANSIBLE
